@@ -21,7 +21,7 @@ This project explores custom implementations of **KNN**, **SVM**, and **K-Means*
 
 - **HOG** (Histogram of Oriented Gradients)  
 - **LBP** (Local Binary Patterns)  
-- **CLHG** (Custom Local Histogram Gradient)
+- **CLHG** (Color Histogram Gradient)
 
 ---
 
